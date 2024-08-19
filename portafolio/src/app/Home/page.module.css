@@ -1,0 +1,50 @@
+.portada {
+        position: relative;
+        overflow: visible;
+        top: 3rem;
+        z-index: 1;
+}
+
+.perfil {
+        position: absolute;
+        top: 17rem;
+        z-index: 2;
+}
+
+.saludo {
+        position: absolute;
+        top: 7rem;
+        left: 30rem;
+}
+
+.aboutMe {
+        position: relative;
+        overflow: visible;
+        top: 17rem;
+        z-index: 1;
+}
+
+.estrellas {
+        position: absolute;
+        top: -1.5rem;
+        z-index: 2;
+        left: 50%;
+        transform: translateX(-50%);
+}
+
+@keyframes scroll-left {
+        0% {
+                transform: translateX(0);
+        }
+
+        100% {
+                transform: translateX(-50%);
+        }
+}
+.scroll {
+        animation: scroll-left 20s linear infinite;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 200%;
+}

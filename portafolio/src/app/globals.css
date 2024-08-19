@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate:ital@0;1&family=Mate+SC&family=Waterfall&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow-x: hidden;;
+}
+h1{
+    font-family: "Waterfall";
+}
+h2{
+    font-family: "Mate SC";
+    font-weight: bold;
+}
+body, h3{
+    font-family: "Mate";
+}
+

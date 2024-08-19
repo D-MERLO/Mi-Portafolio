@@ -1,0 +1,38 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.linkNav {
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    text-decoration: none;
+    position: relative;
+}
+
+.linkNav::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #c1d8e6;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease;
+}
+
+.linkNav:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+@media (max-width: 768px) {
+    .linkNav {
+        font-size: 10px;
+        margin: 0px 5px;
+    }
+}
