@@ -43,7 +43,7 @@ const Home = () => {
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/node.svg" alt="node" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/express.svg" alt="express" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/figma.svg" alt="figma" />
-
+                    <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/git.svg" alt="git" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/css.svg" alt="css" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/html.svg" alt="html" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/js.svg" alt="javascript" />
@@ -57,7 +57,7 @@ const Home = () => {
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/node.svg" alt="node" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/express.svg" alt="express" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/figma.svg" alt="figma" />
-
+                    <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/git.svg" alt="git" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/css.svg" alt="css" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/html.svg" alt="html" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/js.svg" alt="javascript" />
@@ -71,6 +71,7 @@ const Home = () => {
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/node.svg" alt="node" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/express.svg" alt="express" />
                     <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/figma.svg" alt="figma" />
+                    <img className='relative h-16 mx-6 transition-all duration-300 top-12 filter grayscale hover:filter-none ' src="/git.svg" alt="git" />
                 </div>
 
                 <img className='relative top-[5rem] w-[30%]' src="/linea.svg" alt="linea" />
