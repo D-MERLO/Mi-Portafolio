@@ -13,7 +13,7 @@ const Home = () => {
                         <h2>FULLSTACK DEVELOPER ESPECIALIZADA EN FRONTEND</h2>
                         <h3>Soy Argentina y encontré un nuevo mundo en el desarrollo web.</h3>
                         <div className='flex justify-center w-[80%]'>
-                            <Link href="https://drive.google.com/file/d/1fKqTsucGLh6aIVMyrWejtw63NuLMKkmb/view?usp=sharing" target='_blank' className='mt-2 bg-[#E8D954] rounded-[20px] py-[5px] px-[50px] hover:bg-[#f7e760]'>Mi CV</Link>
+                            <Link href="https://drive.google.com/file/d/1UKotTBUn35Q8Sm9CgDcpUJCvr7XrQDZ5/view" target='_blank' className='mt-2 bg-[#E8D954] rounded-[20px] py-[5px] px-[50px] hover:bg-[#f7e760]'>Mi CV</Link>
                         </div>
                     </div>
                 </div>
